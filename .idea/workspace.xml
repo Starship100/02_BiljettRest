@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6332f7f-ca5c-4481-9985-cc24e5062c2a" name="Changes" comment="" />
+    <list default="true" id="e6332f7f-ca5c-4481-9985-cc24e5062c2a" name="Changes" comment="BiljettRest" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,12 +46,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768694555296</updated>
-      <workItem from="1768694556403" duration="2660000" />
+      <workItem from="1768694556403" duration="3041000" />
     </task>
+    <task id="LOCAL-00001" summary="BiljettRest">
+      <option name="closed" value="true" />
+      <created>1768697421402</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768697421402</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BiljettRest" />
+    <option name="LAST_COMMIT_MESSAGE" value="BiljettRest" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/BiljettRest$main.coverage" NAME="main Coverage Results" MODIFIED="1768696656238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
