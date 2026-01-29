@@ -7,3 +7,4 @@ print("Det blir " + str(account - ticket_price) + " kronor över.")
 #split = int(sum / 2)
 split = int((account - ticket_price) / 2)
 print("Varje person får " + str(split) + " kronor.")
+# Testa add i terminal
